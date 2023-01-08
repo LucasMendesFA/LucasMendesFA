@@ -1,13 +1,13 @@
-### Hi there 👋
+### 👋 Olá pessoal, Sou Lucas Mendes, estudante de desenvolvimento web ✨⚡
 
 <a href="https://www.linkedin.com/in/lucas-mendes-871884238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ## Sobre mim
 
-- 💻 Bancário no Banco Bradesco;
-- 👩‍💻 Formado como Comunicação Social - Publicidade e Propaganda🎓;
+- 💻 Bancário;
+- 👩‍💻 Formado em Comunicação Social - Publicidade e Propaganda🎓;
 - 💌 Ajudo na construção de campanhas publicitárias da Ler Café Flor, empresa familiar que atua no segmento de confeitaria caseira. (https://www.instagram.com/lercafeflor/);
-- 🌱 Estudante de tecnologia da informação, aprendizado direcionado ao desenvolvimento web
+- 🌱 Estudante de tecnologia da informação, aprendizado direcionado ao desenvolvimento web.
 
 ## Tecnologias e Ferramentas
 
