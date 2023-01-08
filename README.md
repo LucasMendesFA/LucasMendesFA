@@ -1,7 +1,15 @@
 ### Hi there 👋
 
-
 <a href="https://www.linkedin.com/in/lucas-mendes-871884238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+## Sobre mim
+
+- 💻 Bancário no Banco Bradesco;
+- 👩‍💻 Formado como Comunicação Social - Publicidade e Propaganda🎓;
+- 💌 Ajudo na construção de campanhas publicitárias da Ler Café Flor, empresa familiar que atua no segmento de confeitaria caseira. (https://www.instagram.com/lercafeflor/);
+- 🌱 Estudante de tecnologia da informação, aprendizado direcionado ao desenvolvimento web
+
+## Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
