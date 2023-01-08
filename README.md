@@ -1,8 +1,10 @@
 ### 👋 Olá pessoal, Sou o Lucas Mendes, estudante de desenvolvimento web ✨⚡
 
-##
+## Perfil profissional
 
 <a href="https://www.linkedin.com/in/lucas-mendes-871884238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+##
 
 ## Sobre mim
 
